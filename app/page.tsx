@@ -18,7 +18,7 @@ export default function PortugueseClassesPage() {
           line-height: 1.6;
         }
         .pt-page h1, .pt-page h2, .pt-page h3 {
-          font-family: 'Fraunces', serif;
+          font-family: 'Public Sans', sans-serif;
           font-weight: 500;
           line-height: 1.15;
           margin: 0;
@@ -37,7 +37,7 @@ export default function PortugueseClassesPage() {
           align-items: center;
         }
         .pt-page .logo {
-          font-family: 'Fraunces', serif;
+          font-family: 'Public Sans', sans-serif;
           font-size: 20px;
           font-weight: 500;
         }
@@ -124,7 +124,7 @@ export default function PortugueseClassesPage() {
           align-items: start;
         }
         .pt-page .step-number {
-          font-family: 'Fraunces', serif;
+          font-family: 'Public Sans', sans-serif;
           font-size: 22px;
           color: #1D4E63;
         }
@@ -153,7 +153,7 @@ export default function PortugueseClassesPage() {
         }
         .pt-page .plan h3 { font-size: 20px; margin-bottom: 6px; }
         .pt-page .plan .price {
-          font-family: 'Fraunces', serif;
+          font-family: 'Public Sans', sans-serif;
           font-size: 28px;
           color: #1D4E63;
           margin: 12px 0 16px;
@@ -186,7 +186,7 @@ export default function PortugueseClassesPage() {
         }
         .pt-page .about .credentials { display: flex; gap: 28px; margin-top: 24px; }
         .pt-page .credential .num {
-          font-family: 'Fraunces', serif;
+          font-family: 'Public Sans', sans-serif;
           font-size: 26px;
           color: #1D4E63;
         }
@@ -199,7 +199,7 @@ export default function PortugueseClassesPage() {
         }
         .pt-page .quote-title { font-size: 14px; color: #B5651D; margin-bottom: 8px; }
         .pt-page blockquote {
-          font-family: 'Fraunces', serif;
+          font-family: 'Public Sans', sans-serif;
           font-size: 17px;
           font-weight: 400;
           line-height: 1.5;
