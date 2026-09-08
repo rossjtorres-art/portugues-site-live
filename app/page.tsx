@@ -246,7 +246,10 @@ export default function PortugueseClassesPage() {
             <div>
               <h1>Speak Portuguese from day one.</h1>
               <p>Speaking Portuguese makes life here smoother — it opens up friendships, deepens relationships, and makes bureaucracy far less painful. My goal is to get you speaking from your first class.</p>
-              <a href="#booking" className="btn">Book a free intro call</a>
+              <div style={{ display: 'flex', gap: '12px', flexWrap: 'wrap' }}>
+                <a href="mailto:rossjtorres@gmail.com" className="btn">Email me</a>
+                <a href="https://wa.me/351960259194" className="btn btn-ghost" target="_blank" rel="noopener noreferrer">WhatsApp me</a>
+              </div>
             </div>
             <div className="hero-photo">
               <img src="/hero.jpg" alt="Portuguese teacher, straight-on portrait" />
@@ -373,7 +376,10 @@ export default function PortugueseClassesPage() {
           <div className="wrap">
             <h2>Ready to start speaking?</h2>
             <p>Book a free 20-minute call and we&apos;ll map out a plan that fits your goals.</p>
-            <a href="#" className="btn">Book a free intro call</a>
+            <div style={{ display: 'flex', gap: '12px', justifyContent: 'center', flexWrap: 'wrap' }}>
+              <a href="mailto:rossjtorres@gmail.com" className="btn">Email me</a>
+              <a href="https://wa.me/351960259194" className="btn btn-ghost" target="_blank" rel="noopener noreferrer">WhatsApp me</a>
+            </div>
           </div>
         </section>
 
