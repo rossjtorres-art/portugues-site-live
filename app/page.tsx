@@ -302,7 +302,7 @@ export default function PortugueseClassesPage() {
                   <li>Flexible scheduling</li>
                   <li>Good for trying it out</li>
                 </ul>
-                <a href="#booking" className="btn btn-ghost">Book a class</a>
+                <a href="https://buy.stripe.com/9B614mcuAebU9XM3HSdby00" className="btn btn-ghost" target="_blank" rel="noopener noreferrer">Book a class</a>
               </div>
               <div className="plan featured">
                 <span className="plan-badge">Most popular</span>
@@ -313,7 +313,7 @@ export default function PortugueseClassesPage() {
                   <li>Personalized curriculum</li>
                   <li>Progress check-ins</li>
                 </ul>
-                <a href="#booking" className="btn">Book a package</a>
+                <a href="https://buy.stripe.com/00w4gy8ek6Js7PE6U4dby01" className="btn" target="_blank" rel="noopener noreferrer">Book a package</a>
               </div>
             </div>
           </div>
