@@ -327,6 +327,7 @@ export default function PortugueseClassesPage() {
             <div>
               <p className="section-label">About your guide</p>
               <h2>I&apos;ve taught hundreds of people Portuguese.</h2>
+              <p>I hold an MA in Romance Languages and have taught in the US, Mexico, Italy, and Portugal — including here in Portugal itself, so I know firsthand what it takes to build a life in a language that isn&apos;t your own.</p>
               <p>My methodology is built with American clients in mind — adapted to your linguistic background and the specific transition of building a life in Portugal, not a generic classroom course.</p>
               <p>Think of me as your guide: I&apos;ve walked this path with hundreds of students already, and I know where the real obstacles are — and where the shortcuts are too.</p>
               <div className="credentials">
@@ -337,6 +338,10 @@ export default function PortugueseClassesPage() {
                 <div className="credential">
                   <div className="num">100s</div>
                   <div className="label">students taught</div>
+                </div>
+                <div className="credential">
+                  <div className="num">MA</div>
+                  <div className="label">Romance Languages</div>
                 </div>
               </div>
             </div>
